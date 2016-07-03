@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NFCTest</string>
+    <string name="fakeDataHint">data to fake</string>
+    <string name="send_nfc">Send NFC</string>
+    <string name="sendDataHint">Data to send with NFC</string>
+    <string name="send_fake">Send Fake NFC</string>
+    <string name="scanDataHint">no data scanned yet</string>
+</resources>
